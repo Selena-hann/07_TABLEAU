@@ -144,10 +144,10 @@ Superstore 데이터에서 **반품된 주문만** 확인하려고 합니다.
    중복될 수 있는데, 관계는 시트 간 세분화 수준(grain)을 유지하면서 필요한 시점에
    자동으로 적절한 방식(LEFT/INNER 등)으로 쿼리를 생성해주기 때문에,
    반품 여부와 상관없이 전체 주문 데이터를 유지하면서 반품 정보만 결합할 때 더 안전합니다.
-<img width="1710" height="1069" alt="image" src="https://github.com/user-attachments/assets/4e29b836-5b29-44b4-8b74-ba41a3a89c59" />
+
 
 ```
-
+<img width="1710" height="1069" alt="image" src="https://github.com/user-attachments/assets/4e29b836-5b29-44b4-8b74-ba41a3a89c59" />
 ---
 
 # 4️⃣ 📝 이번 주 회고

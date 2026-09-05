@@ -87,10 +87,9 @@ Tableau 화면을 캡처하여 개인 레포의 이미지 폴더에 업로드하
 2. `주문` 시트가 정상적으로 불러와진 화면 캡처
 3. 데이터 원본 화면에서 확인한 필드 예시 2개와 각 데이터 유형
 
-```
 <img width="1710" height="1069" alt="image" src="https://github.com/user-attachments/assets/0161b836-c18b-4d25-b113-59196f6a3aa4" />
 
-```
+
 
 ---
 

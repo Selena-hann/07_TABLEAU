@@ -89,6 +89,7 @@ Superstore `주문` 데이터를 사용하여 아래 그래프를 만들어주�
 캡처 이미지:
 ```
 <img width="1710" height="1069" alt="image" src="https://github.com/user-attachments/assets/92a56a32-8efb-40b1-8eaf-6ebc59702a57" />
+
 ```
 그래프 이름: 월별 매출 라인그래프
 사용한 필드: 주문 날짜(열, 연속형 월 단위), 매출(행)

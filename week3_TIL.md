@@ -137,6 +137,9 @@ Tableau 화면을 캡처하여 개인 레포의 이미지 폴더에 업로드하
 그래프에서 확인한 인사이트:
 ```
 
+<img width="1710" height="1069" alt="image" src="https://github.com/user-attachments/assets/cb175bac-4da6-46da-b239-55e85a4e043f" />
+
+
 ---
 
 # 4️⃣ 📝 이번 주 회고
